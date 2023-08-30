@@ -1,3 +1,2 @@
-#!/bin/bash
-current="$pwd"
-echo "Current working directory: $current"
+#!/bin/bash 
+current="$pwd" echo "Current working directory: $current"
